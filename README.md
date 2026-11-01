@@ -23,3 +23,9 @@ The site is built with the [Academic Pages](https://github.com/academicpages/aca
 - `_pages/about.md` — the About page
 - `_pages/publications.html` — the Publications page
 - `_publications/` — individual publication records
+
+## Publishing
+
+The `/.github/workflows/jekyll.yml` workflow builds the site with Jekyll and deploys it to GitHub Pages on pushes to `master`.
+
+GitHub Pages must be enabled for the repository with **GitHub Actions** as the build source: **Settings → Pages → Build and deployment → Source: GitHub Actions**. Enabling Pages is a one-time repository-admin action; the `GITHUB_TOKEN` used by Actions cannot create the Pages site itself.

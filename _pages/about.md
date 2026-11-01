@@ -11,7 +11,7 @@ redirect_from:
 
 I am a first-year PhD candidate at the **HKUST NLP Group**, **Hong Kong University of Science and Technology (HKUST)**, supervised by **Professor Junxian He**. My research focuses on **natural language processing** and **machine learning**.
 
-I graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024.
+I graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024. Professor Junxian He also advised me during my undergraduate studies at SJTU.
 
 ## Research Interests
 
@@ -25,6 +25,7 @@ I graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024.
   - PhD supervisor: Professor Junxian He
 - **B.Eng.**, Shanghai Jiao Tong University (SJTU) — 2020 – 2024
   - Graduated in June 2024
+  - Undergraduate advisor: Professor Junxian He
 - **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
 ## Research Experience
